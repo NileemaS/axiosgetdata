@@ -1,0 +1,40 @@
+
+    .row.content {height: 80%}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      position: absolute;
+      background-color: #555;
+      color: white;
+      padding: 5px;
+      margin-bottom: 0;
+    }
+   
+    .divRow{
+      position: relative;
+    }
+
+    .inputNumber{
+      margin-right: 0;
+      width: 80px;
+      height: 35px;
+      border: solid 2px rgb(81, 15, 212);
+      text-align: center;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
