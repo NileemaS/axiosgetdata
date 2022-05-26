@@ -1,11 +1,9 @@
 # dataFetch
-Uses useEffect and useReduce to manage fetch of online data
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Hello%20World!&fontSize=30&desc=Welcome%20To%20My%20Future%0ABouce&animation=scaleIn&fontAlign=20&rotate=-30)
 
  ## dataFetch
- 
-Fetching data from API by using Axios, and React hooks like useEffect and useReduce
+Uses useEffect and useReduce to manage fetch of online data
 
 <p>
 Added features:
